@@ -1,0 +1,11 @@
+torch
+transformers
+numpy
+flask
+flask-cors
+accelerate
+# auto-gptq
+datasets
+safetensors
+bitsandbytes
+psutil
